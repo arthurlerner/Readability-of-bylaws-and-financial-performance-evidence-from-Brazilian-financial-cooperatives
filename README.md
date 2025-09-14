@@ -1,3 +1,6 @@
+Lerner, Arthur Frederico, 2025, "Readability of bylaws and financial performance: evidence from Brazilian financial cooperatives", https://doi.org/10.7910/DVN/C111GY, Harvard Dataverse, DRAFT VERSION 
+Learn about Data Citation Standards.
+
 # Readability-of-bylaws-and-financial-performance-evidence-from-Brazilian-financial-cooperatives
 This study examines how the readability of bylaws relates to the financial performance of Brazilian financial cooperatives. It investigates whether linguistic complexity functions as a mechanism of opacity, particularly in lower-performing institutions, as proposed by the management obfuscation hypothesis.
 
