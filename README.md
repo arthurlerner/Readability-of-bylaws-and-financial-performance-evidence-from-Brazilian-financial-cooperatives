@@ -1,0 +1,2 @@
+# Readability-of-bylaws-and-financial-performance-evidence-from-Brazilian-financial-cooperatives
+This study examines how the readability of bylaws relates to the financial performance of Brazilian financial cooperatives. It investigates whether linguistic complexity functions as a mechanism of opacity, particularly in lower-performing institutions, as proposed by the management obfuscation hypothesis.
